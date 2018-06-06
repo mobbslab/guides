@@ -7,3 +7,4 @@
 | Association of Psychological Science | May 24-27, 2018 | San Francisco, CA |  |April 3, 2018 (Early Price Deadline) |
 | [BRAINS, MINDS & MACHINES SUMMER COURSE](http://cbmm.mit.edu/summer-school/2018) | Aug 9-30, 2018 | Woods Hole, MA | April 9, 2018 | |
 | Cognitive Computational Neuroscience | Sep 5-8, 2018 | Philadelphia, PA | 31 May | | |
+| Computational Psychiatry | Nov 2-5, 2018 | San Diego, CA, | | |

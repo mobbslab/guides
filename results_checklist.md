@@ -1,7 +1,10 @@
 # Results reporting checklist
 ### Basic analyses
-- [ ] Confidence intervals
-- [ ] Effect size
+- [ ] Report all test statistics (t, F, etc)
+- [ ] Report degrees of freedom
+- [ ] Report exact p-vals, even if test is n.s.
+- [ ] Report effect sizes, even if test is n.s.
+- [ ] Report confidence intervals for effect sizes
 - [ ] Power analysis
 - [ ] Goodness-of-fit
 - [ ] Corrected values and method (if necessary)
@@ -14,6 +17,10 @@
 - [ ] Bayes factor
 
 For an in-depth checklist of fMRI reporting see [Poldrack et al. (2008)](http://www.sciencedirect.com/science/article/pii/S1053811907011020).
+
+## Images
+- [ ] Plot error bars (SEM, CI, etc)
+- [ ] Export in vector graphics format (eps, pdf)
 
 For anyone with further interest in "The New Statistics" and why we should be reporting all of this:
 
